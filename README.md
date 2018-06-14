@@ -1,2 +1,2 @@
-# broke-diaries
-A repository of my website
+# My Portfolio
+This is a website I created to post the projects the I made
